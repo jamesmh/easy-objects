@@ -1,0 +1,1 @@
+window.$easy = require('./easy');
