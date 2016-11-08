@@ -1,5 +1,5 @@
 # easy-objects
-A tiny library to supply the ability to work with object properties in a semantic fashion. Allows easy creation of properties in one call and perhaps building objects for unit testing, etc.
+A tiny library to supply the ability to work with object properties in a semantic fashion. Allows easy creation of properties in one call and perhaps useful building objects for unit testing, building namespaces, etc.
 
 ## Methods
 
