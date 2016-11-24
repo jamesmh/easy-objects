@@ -1,5 +1,5 @@
 # easy-objects
-A tiny library to supply the ability to work with object properties in a semantic fashion. Allows easy creation of properties in one call and perhaps useful building objects for unit testing, building namespaces, etc.
+A tiny library to supply the ability to work with object properties in a semantic fashion. Allows easy creation of properties in one call and perhaps useful for building objects for unit testing, building namespaces, etc.
 
 ## Methods
 
@@ -10,7 +10,7 @@ To initialize a new Easy Object, do:
 var easy = new $easy();
 ```
 
-You can pass a pre-existing object into the constructor.
+You can pass a pre-existing object into the constructor so that you can add properties etc. using this library.
 
 ```
 var easy = new $easy(somePreExistingObject);
